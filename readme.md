@@ -1,9 +1,9 @@
-# Pyoak | Repository
+# Pyoak | Support
 
-This is a simple dictionary like repository in python.
+This is a collection of simple helper functions in python.
 
-# Usage
+# Development
 
-```python
-repo = Repository()
+```bash
+py build
 ```
